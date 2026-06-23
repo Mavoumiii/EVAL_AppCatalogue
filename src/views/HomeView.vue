@@ -4,7 +4,7 @@
       <div class="row align-items-center g-5">
         <div class="col-12 col-lg-6">
           <span class="badge text-bg-warning border border-warning-subtle text-dark mb-3">Formations professionnelles a Mayotte</span>
-          <h1 class="display-3 fw-bold text-dark mb-3">DWWM Academy</h1>
+          <h1 class="display-3 fw-bold text-dark mb-3">ALOALO Mayotte Competences</h1>
 
           <p class="lead text-secondary mb-4">
             Developpez vos competences avec des parcours concrets en developpement web,
@@ -15,11 +15,24 @@
             <router-link to="/catalogue" class="btn btn-dark btn-lg shadow-sm">
               Decouvrir les formations
             </router-link>
-            <router-link to="/contact" class="btn btn-outline-dark btn-lg bg-white bg-opacity-50">
+            <router-link to="/contact" class="btn btn-outline-warning btn-lg bg-opacity-50">
               Nous contacter
             </router-link>
           </div>
-        </div>  
+        </div> 
+        <div class="col-12 col-lg-6">
+          <div class="hero-panel">
+            <img
+              src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&w=900&q=80"
+              alt="Apprenants en formation numerique"
+              class="hero-photo"
+            >
+            <div class="hero-stat">
+              <strong>8 parcours :</strong>
+              <span>du debutant a l'avance</span>
+            </div>
+          </div>
+        </div> 
       </div>
     </div>
   </section>
