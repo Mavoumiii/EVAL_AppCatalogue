@@ -4,7 +4,7 @@
       <div class="row align-items-center g-5">
         <div class="col-12 col-lg-6">
           <span class="badge text-bg-warning border border-warning-subtle text-dark mb-3">Formations professionnelles a Mayotte</span>
-          <h1 class="display-3 fw-bold text-dark mb-3">ALOALO Mayotte Competences</h1>
+          <h1 class="display-3 fw-bold text-dark mb-3">DWWM Academy</h1>
 
           <p class="lead text-secondary mb-4">
             Developpez vos competences avec des parcours concrets en developpement web,
