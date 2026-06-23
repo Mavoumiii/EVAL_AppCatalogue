@@ -27,12 +27,9 @@
           <input
             class="form-control form-control-sm rounded-pill search-input"
             type="search"
-            placeholder="Rechercher"
+            placeholder="  Rechercher..."
             aria-label="Rechercher"
           >
-          <button class="btn btn-dark btn-sm rounded-pill px-3" type="button">
-            Rechercher
-          </button>
         </form>
         <ul class="navbar-nav ms-auto fw-semibold gap-lg-1">
           <li class="nav-item">
